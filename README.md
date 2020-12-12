@@ -5,7 +5,7 @@ Our project is to fulfill a target that Given human face with masks, then we sim
 
 
 <div align=center>
-  <img width="50" height="50" src="https://github.com/BiuYeaf/Uncover-your-mask/blob/main/whole_images_model/161_train.png"/>
+  <img width="400" height="400" src="https://github.com/BiuYeaf/Uncover-your-mask/blob/main/whole_images_model/161_train.png"/>
 </div>
 
 
@@ -14,17 +14,20 @@ Our project is to fulfill a target that Given human face with masks, then we sim
 # Dataset
 
 <div align=center>
-  <img width="50" height="50" src="https://github.com/BiuYeaf/Uncover-your-mask/blob/main/images/face.png"/>
+  <img width="400" height="400" src="https://github.com/BiuYeaf/Uncover-your-mask/blob/main/images/face.png"/>
 </div>
 vggface2 library
 
 
 
 We download the vggface2 library and use opencv to add masks on part of those pictures
-![image](https://github.com/BiuYeaf/Uncover-your-mask/blob/main/images/mask01.png)
-![image](https://github.com/BiuYeaf/Uncover-your-mask/blob/main/images/mask02.png)
-![image](https://github.com/BiuYeaf/Uncover-your-mask/blob/main/images/mask03.png)
-![image](https://github.com/BiuYeaf/Uncover-your-mask/blob/main/images/mask04.png)
+
+<div align=center>
+  <img width="200" height="200" src="https://github.com/BiuYeaf/Uncover-your-mask/blob/main/images/mask01.png"/>
+  <img width="200" height="200" src="https://github.com/BiuYeaf/Uncover-your-mask/blob/main/images/mask02.png"/>
+  <img width="200" height="200" src="https://github.com/BiuYeaf/Uncover-your-mask/blob/main/images/mask03.png"/>
+  <img width="200" height="200" src="https://github.com/BiuYeaf/Uncover-your-mask/blob/main/images/mask04.png"/>
+</div>
 
 We upload it on kaggle.
 https://www.kaggle.com/momoxia/masked-people-dataset
